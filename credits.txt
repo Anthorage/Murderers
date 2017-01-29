@@ -1,0 +1,3 @@
+RUBY 2.2
+GOSU 0.10.X
+OCRA --
